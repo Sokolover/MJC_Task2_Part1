@@ -1,5 +1,5 @@
-q_upd
-w_upd
+q_upd2
+w_upd2
 e
 r
 t
